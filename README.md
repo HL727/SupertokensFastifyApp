@@ -81,7 +81,3 @@ To run the Docker image, run the following command:
 ```bash
 docker run --rm -p 3001:3001 fastify-supertokens-example
 ```
-
-# Author
-
-Liran Tal <liran.tal@gmail.com>
